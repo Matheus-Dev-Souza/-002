@@ -31,6 +31,4 @@ A versão **mobile** é destinado aos clientes das barbearias e está disponíve
 
 
 
-<div align="center">
-  <small>Rodrigo Gonçalves Santana - 2020</small>
-</div>
+
